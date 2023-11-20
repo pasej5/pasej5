@@ -1,13 +1,9 @@
-
 <h1 align="center">Hi 👋, I'm Jealous Matsikachando</h1>
 <h3 align="center">A passionate Full Stack Engineer | Crafting Digital Masterpieces | Proficient in C, HTML, CSS, Python, JavaScript, MySQL, Git, Networking, & APIs</h3>
-<img align='right' alt='Coding' width='400' src='https://dribbble.com/users/1162077/screenshots/3848914/programmer.gif>'
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pasej5&label=Profile%20views&color=0e75b6&style=flat" alt="pasej5" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pasej5" alt="pasej5" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@matsikajay" target="blank"><img src="https://img.shields.io/twitter/follow/@matsikajay?logo=twitter&style=for-the-badge" alt="@matsikajay" /></a> </p>
+<p align="left"> <a href="https://twitter.com/matsikajay" target="blank"><img src="https://img.shields.io/twitter/follow/matsikajay?logo=twitter&style=for-the-badge" alt="matsikajay" /></a> </p>
 
 - 🔭 I’m currently working on [AirBnB project](http://100.26.236.53/)
 
@@ -21,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@matsikajay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@matsikajay" height="30" width="40" /></a>
+<a href="https://twitter.com/matsikajay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="matsikajay" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jealous matsikachando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jealous matsikachando" height="30" width="40" /></a>
 <a href="https://fb.com/funwel matsika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="funwel matsika" height="30" width="40" /></a>
 <a href="https://medium.com/@jealous matsikachando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jealous matsikachando" height="30" width="40" /></a>
@@ -35,4 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pasej5&show_icons=true&locale=en" alt="pasej5" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pasej5&" alt="pasej5" /></p>
-
