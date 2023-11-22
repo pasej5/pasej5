@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [AirBnB project](http://100.26.236.53/)
 
-- 🌱 I’m currently learning **Python, MySQLAlchemy, Gunicorn, Flask**
+- 🌱 I’m currently learning **Python, Django MySQLAlchemy, Gunicorn, Flask,**
 
 - 💬 Ask me about **linked lists and Algorithms**
 
