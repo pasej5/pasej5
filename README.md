@@ -25,9 +25,8 @@
 <a href="https://twitter.com/matsikajay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="matsikajay" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jealous matsikachando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jealous matsikachando" height="30" width="40" /></a>
 <a href="https://fb.com/funwel matsika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="funwel matsika" height="30" width="40" /></a>
-<a href="https://medium.com/@jealous matsikachando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jealous matsikachando" height="30" width="40" /></a>
+<a href="https://medium.com/@jealous matsikachando" target="blank"><img align="center" src="https://medium.com/@pasej5/my-first-postmortem-4f74a9db6af1" alt="@jealous matsikachando" height="30" width="40" /></a>
 </p>
-<a href="https://medium.com/@pasej5">https://medium.com/@pasej5/my-first-postmortem-4f74a9db6af1</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
