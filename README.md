@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Python, JavaScript,**
 
-- 💬 Ask me about **linked lists and Algorithms**
+- 💬 Ask me about **linked lists and RESTFUL APIs**
 
 - 📫 How to reach me **pasej5@gmail.com**
 
