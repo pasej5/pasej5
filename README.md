@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/matsikajay" target="blank"><img src="https://img.shields.io/twitter/follow/matsikajay?logo=twitter&style=for-the-badge" alt="matsikajay" /></a> </p>
 
-- 🔭 I’m currently working on [AirBnB project](http://100.26.236.53/)
+- 🔭 I’m currently working on https://youtu.be/vtil5msMn9s
 
 - 🌱 I’m currently learning **Python, JavaScript,**
 
