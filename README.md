@@ -14,6 +14,8 @@
 
 - 📫 How to reach me **pasej5@gmail.com**
 
+- 🔭 Portfolio Project link http://16.170.255.237/
+
 - ⚡ Fun fact **Just like crafting a perfect recipe, this project's development journey began with a dash of experimentation and a pinch of creativity. Much like infusing flavors in a culinary masterpiece, our coding sessions were seasoned with moments of trial and error, blending different coding techniques akin to mixing diverse ingredients in a gourmet dish. Just as a chef refines their recipe, we meticulously refined this project to ensure it's as delightful to use as a perfectly crafted meal**
 
 ### Blogs posts
