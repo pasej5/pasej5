@@ -39,3 +39,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pasej5&show_icons=true&locale=en" alt="pasej5" /></p>
 
 <p><img align="center" src="https://github.com/pasej5" alt="pasej5" /></p>
+
+
+
+
+
+### COMPLETED PROJECTS
+
+
