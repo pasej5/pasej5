@@ -43,7 +43,9 @@
 
 
 
-### COMPLETED PROJECTS
+### PROJECTS
+
+### CURRENTLY WORKING ON
 <!-- BLOG-POST-LIST:START -->
 NLX-EXPERIENCE(The ultimate alx intranet clone)  http://16.170.255.237/,  https://youtu.be/vtil5msMn9s
 
