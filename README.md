@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on https://youtu.be/vtil5msMn9s
 
-- 🌱 I’m currently learning **Python, JavaScript,**
+- 🌱 I’m currently learning **Python, using Django Framework**
 
 - 💬 Ask me about **linked lists and RESTFUL APIs**
 
