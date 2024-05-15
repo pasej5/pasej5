@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Python, using Django Framework**
 
-- 💬 Ask me about **linked lists and RESTFUL APIs**
+- 💬 Ask me about **Django Framework**
 
 - 📫 How to reach me **pasej5@gmail.com**
 
