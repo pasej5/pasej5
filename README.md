@@ -47,8 +47,7 @@
 
 ### CURRENTLY WORKING ON
 <!-- BLOG-POST-LIST:START -->
-NLX-EXPERIENCE(The ultimate alx intranet clone)  http://16.170.255.237/,  https://youtu.be/vtil5msMn9s
-
+Peace Investments Marketplace http://13.48.217.164/
 
 ![Screenshot (348)](https://github.com/pasej5/pasej5/assets/125504697/b551f261-683a-4f38-b1d8-b912d14b5050)
 
