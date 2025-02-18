@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **pasej5@gmail.com**
 
-- 🔭 Portfolio Project link: http://13.49.238.140/
+- 🔭 Portfolio Project link: https://jmatsika.com/
 
 - ⚡ Fun fact **Just like crafting a perfect recipe, this project's development journey began with a dash of experimentation and a pinch of creativity. Much like infusing flavors in a culinary masterpiece, our coding sessions were seasoned with moments of trial and error, blending different coding techniques akin to mixing diverse ingredients in a gourmet dish. Just as a chef refines their recipe, we meticulously refined this project to ensure it's as delightful to use as a perfectly crafted meal**
 
@@ -47,7 +47,7 @@
 
 ### CURRENTLY WORKING ON
 <!-- BLOG-POST-LIST:START -->
-Peace Investments Marketplace http://13.48.217.164/
+Peace Investments Marketplace https://jmatsika.com/
 
 <!-- BLOG-POST-LIST:END -->
 
