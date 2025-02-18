@@ -47,7 +47,7 @@
 
 ### CURRENTLY WORKING ON
 <!-- BLOG-POST-LIST:START -->
-Peace Investments Marketplace https://jmatsika.com/
+Building a Fully featured API Including Authentication, CRUD Operations, Validation, Documentation, SQL, ORM(SQLAlchemy), Alambic, Postman for Testing, Deployment in AWS, Nginx,  https://github.com/pasej5/fastApi
 
 <!-- BLOG-POST-LIST:END -->
 
