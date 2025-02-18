@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/matsikajay" target="blank"><img src="https://img.shields.io/twitter/follow/matsikajay?logo=twitter&style=for-the-badge" alt="matsikajay" /></a> </p>
 
-- 🔭 I’m currently working on https://youtu.be/vtil5msMn9s
+- 🔭 I’m currently working on Building a Fully featured API Including Authentication, CRUD Operations, Validation, Documentation, SQL, ORM(SQLAlchemy), Alambic, Postman for Testing, Deployment in AWS, Nginx,  https://github.com/pasej5/fastApi
 
-- 🌱 I’m currently learning **Python, using Django Framework**
+- 🌱 I’m currently learning **Python, FastApi, Postman**
 
-- 💬 Ask me about **Django Framework**
+- 💬 Ask me about **Django Framework, FastApi, AWS free Tier deployment**
 
 - 📫 How to reach me **pasej5@gmail.com**
 
