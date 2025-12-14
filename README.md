@@ -7,7 +7,7 @@ innovative and scalable software solutions in a collaborative team setting.</h3>
 
 <p align="left"> <a href="https://twitter.com/matsikajay" target="blank"><img src="https://img.shields.io/twitter/follow/matsikajay?logo=twitter&style=for-the-badge" alt="matsikajay" /></a> </p>
 
-- 🔭 I’m currently working on Building a Fully featured API Including Authentication, CRUD Operations, Validation, Documentation, SQL, ORM(SQLAlchemy), Alambic, Postman for Testing, Deployment in AWS, Nginx,  https://github.com/pasej5/fastApi
+- 🔭 Currently building and deploying jmatsika.com, CRUD Operations, Validation, Documentation, SQL, ORM(SQLAlchemy), Alambic, Postman for Testing, Deployment Digital Ocean, Nginx,  https://www.jmatsika.com/
 
 - 🌱 I’m currently learning **Python, FastApi, Postman**
 
